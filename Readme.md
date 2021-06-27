@@ -1,4 +1,5 @@
 ### Using AMCharts Covid Map and replacing their data with my own
+Original demo from AMCharts:  https://www.amcharts.com/demos/corona-virus-animated-dashboard/
 
 Line 11:  My own dummy data
 
